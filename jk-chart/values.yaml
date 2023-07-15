@@ -40,7 +40,7 @@ service:
   type: LoadBalancer
   port: 8080
   #targetPort: 8080
-  nodePort: 32048
+  nodePort: 32049
 
 ingress:
   enabled: false
